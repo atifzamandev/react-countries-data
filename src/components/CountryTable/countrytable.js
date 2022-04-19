@@ -15,7 +15,7 @@ function CountryTable({ countries }) {
         {countries.map((country) => (
           <TableRows
             key={country.name.common}
-            flag={country.flag}
+            flag={country.flags.svg}
             cname={country.name.common}
             population={country.population}
             region={country.region}
