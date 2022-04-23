@@ -1,3 +1,7 @@
+# Vist the countries data fetched by API:
+
+Deployed to AWS via CI/CD https://master.d3oaqwqkylw8ry.amplifyapp.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
